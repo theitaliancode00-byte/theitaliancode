@@ -1,11 +1,38 @@
 [
-  {"post": "001-rule-cappuccino",      "at": "2026-10-09T12:00:00+02:00"},
-  {"post": "002-five-phrases",         "at": "2026-10-09T15:00:00+02:00"},
-  {"post": "003-rule-parmigiano",      "at": "2026-10-09T18:00:00+02:00"},
-  {"post": "004-rule-spaghetti",       "at": "2026-10-10T18:00:00+02:00"},
-  {"post": "005-untranslatable-words", "at": "2026-10-11T18:00:00+02:00"},
-  {"post": "006-rule-pepperoni",       "at": "2026-10-12T18:00:00+02:00"},
-  {"post": "007-false-friends",        "at": "2026-10-13T18:00:00+02:00"},
-  {"post": "008-rule-pineapple",       "at": "2026-10-14T18:00:00+02:00"},
-  {"post": "009-rule-aperitivo",       "at": "2026-10-15T18:00:00+02:00"}
+  {
+    "post": "001-rule-cappuccino",
+    "at": "2026-10-02T18:00:00+02:00"
+  },
+  {
+    "post": "002-five-phrases",
+    "at": "2026-10-03T18:00:00+02:00"
+  },
+  {
+    "post": "003-rule-parmigiano",
+    "at": "2026-10-04T18:00:00+02:00"
+  },
+  {
+    "post": "004-rule-spaghetti",
+    "at": "2026-10-05T18:00:00+02:00"
+  },
+  {
+    "post": "005-untranslatable-words",
+    "at": "2026-10-06T18:00:00+02:00"
+  },
+  {
+    "post": "006-rule-pepperoni",
+    "at": "2026-10-07T18:00:00+02:00"
+  },
+  {
+    "post": "007-false-friends",
+    "at": "2026-10-08T18:00:00+02:00"
+  },
+  {
+    "post": "008-rule-pineapple",
+    "at": "2026-10-09T18:00:00+02:00"
+  },
+  {
+    "post": "009-rule-aperitivo",
+    "at": "2026-10-10T18:00:00+02:00"
+  }
 ]
