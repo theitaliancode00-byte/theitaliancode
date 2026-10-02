@@ -1,0 +1,38 @@
+{
+  "series": "Italian Rule",
+  "slides": [
+    {"type": "cover", "theme": "green", "kicker": "Italian Rule", "rule_no": "Nº 2",
+     "title": "No <em>parmigiano</em> on seafood pasta.",
+     "sub": "Yes, really. Even if the waiter is smiling."},
+    {"type": "text", "theme": "ivory", "kicker": "The rule",
+     "heading": "Cheese and fish <em>don't mix</em>.",
+     "paragraphs": [
+       "In most of Italy, grating cheese on spaghetti with clams or prawns is seen as a small culinary crime.",
+       "Ask for it, and the waiter may suddenly forget how to hear."
+     ]},
+    {"type": "text", "theme": "bordeaux", "kicker": "Why",
+     "heading": "Respect the <em>sea</em>.",
+     "paragraphs": [
+       "Seafood has a delicate flavour. A strong, aged cheese like Parmigiano covers it completely.",
+       "The Italian philosophy: few ingredients, and each one should taste like itself."
+     ]},
+    {"type": "text", "theme": "green", "kicker": "The Italian trick",
+     "heading": "The <em>poor man's</em> parmesan.",
+     "paragraphs": [
+       "Want some crunch? In Southern Italy they sprinkle toasted breadcrumbs — <span class='it'>la mollica</span> — on seafood pasta.",
+       "Golden, crispy, and 100% approved by every nonna."
+     ]},
+    {"type": "text", "theme": "ivory", "kicker": "Exceptions exist",
+     "heading": "Italy is never <em>that simple</em>.",
+     "paragraphs": [
+       "A few regional recipes do mix cheese and fish — and Italians love to argue about them.",
+       "But as a guest? Skip the cheese. Your waiter's blood pressure will thank you."
+     ]},
+    {"type": "cta", "theme": "bordeaux",
+     "title": "Tag the friend who <em>needs to know</em>.",
+     "text": "Follow for Italian Rule Nº 3 — the one about spaghetti and knives. Brace yourself.",
+     "button": "Follow @the.italiancode"}
+  ],
+  "caption": "Italian Rule Nº 2 🍝\nNo parmigiano on seafood pasta.\n\nStrong cheese hides the delicate taste of the sea — so in most of Italy, it's a firm no. Want crunch? Ask for toasted breadcrumbs, the “poor man's parmesan”.\n\nTeam cheese or team no-cheese? Choose carefully. Nonna is reading 👇\n\n—\n🇮🇹 Regola italiana n.2: niente formaggio sulla pasta di mare. Siete d'accordo o fate eccezioni?",
+  "hashtags": ["#italianfood", "#italianculture", "#italy", "#pasta", "#seafoodpasta", "#italiancooking", "#learnitalian", "#italia", "#theitaliancode"]
+}

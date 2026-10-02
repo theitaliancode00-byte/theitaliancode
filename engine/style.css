@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Montserrat:wght@300;400;500;600&display=block');
+
+:root {
+  --green: #0D2A1F;
+  --green-2: #143A2C;
+  --bordeaux: #6E1423;
+  --bordeaux-2: #8A1C2E;
+  --gold: #C8A45D;
+  --gold-soft: #E3CB94;
+  --ivory: #F4EDE1;
+  --ivory-2: #EAE0CE;
+  --ink: #16120E;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1350px; overflow: hidden; }
+body { font-family: 'Montserrat', sans-serif; -webkit-font-smoothing: antialiased; }
+
+.slide {
+  position: relative; width: 1080px; height: 1350px;
+  display: flex; flex-direction: column;
+  padding: 120px 110px;
+}
+
+/* ---- themes ---- */
+.t-green {
+  background: radial-gradient(ellipse at 50% 35%, var(--green-2) 0%, var(--green) 65%, #081C14 100%);
+  color: var(--ivory);
+}
+.t-bordeaux {
+  background: radial-gradient(ellipse at 50% 35%, var(--bordeaux-2) 0%, var(--bordeaux) 60%, #4A0C17 100%);
+  color: var(--ivory);
+}
+.t-ivory {
+  background: radial-gradient(ellipse at 50% 30%, #FBF6EC 0%, var(--ivory) 55%, var(--ivory-2) 100%);
+  color: var(--green);
+}
+
+/* ---- gold frame with corner ornaments ---- */
+.frame { position: absolute; inset: 44px; border: 1.5px solid var(--gold); pointer-events: none; }
+.frame::after { content: ''; position: absolute; inset: 10px; border: 0.75px solid rgba(200,164,93,.45); }
+.corner { position: absolute; width: 22px; height: 22px; background: var(--gold); transform: rotate(45deg); }
+.corner.tl { top: -11px; left: -11px; } .corner.tr { top: -11px; right: -11px; }
+.corner.bl { bottom: -11px; left: -11px; } .corner.br { bottom: -11px; right: -11px; }
+.t-ivory .frame { border-color: var(--gold); }
+
+/* ---- header / footer ---- */
+.top {
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 19px; font-weight: 500; letter-spacing: .38em; text-transform: uppercase;
+  color: var(--gold);
+}
+.bottom {
+  position: absolute; left: 110px; right: 110px; bottom: 100px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 19px; font-weight: 500; letter-spacing: .22em; color: var(--gold);
+}
+.tricolor { display: flex; width: 72px; height: 3px; }
+.tricolor i { flex: 1; }
+.tricolor i:nth-child(1) { background: #1F6B45; }
+.tricolor i:nth-child(2) { background: var(--ivory); }
+.tricolor i:nth-child(3) { background: #B3253A; }
+.t-ivory .tricolor i:nth-child(2) { background: #D9CCB4; }
+
+/* ---- content ---- */
+.body { flex: 1; display: flex; flex-direction: column; justify-content: center; }
+.center { align-items: center; text-align: center; }
+
+.kicker {
+  font-size: 22px; font-weight: 600; letter-spacing: .42em; text-transform: uppercase;
+  color: var(--gold); margin-bottom: 38px;
+}
+.rule-no { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 500; font-size: 64px; color: var(--gold); margin-bottom: 18px; }
+h1 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: 104px; line-height: 1.02; letter-spacing: -.01em;
+}
+h1 em, h2 em { font-style: italic; color: var(--gold); font-weight: 500; }
+.t-ivory h1 em, .t-ivory h2 em { color: var(--bordeaux); }
+h2 {
+  font-family: 'Cormorant Garamond', serif; font-weight: 600;
+  font-size: 78px; line-height: 1.06; margin-bottom: 44px;
+}
+p {
+  font-size: 34px; line-height: 1.55; font-weight: 300; max-width: 820px;
+}
+p + p { margin-top: 26px; }
+p strong { font-weight: 600; }
+.t-ivory p { color: #2A2620; }
+.t-ivory p strong { color: var(--green); }
+.it { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 500; font-size: 1.32em; color: var(--gold); }
+.t-ivory .it { color: var(--bordeaux); }
+
+.divider { display: flex; align-items: center; gap: 22px; margin: 46px 0; color: var(--gold); }
+.center .divider { justify-content: center; }
+.divider span { width: 90px; height: 1px; background: var(--gold); }
+.divider b { width: 10px; height: 10px; background: var(--gold); transform: rotate(45deg); }
+
+.sub { font-size: 30px; font-weight: 300; letter-spacing: .04em; opacity: .9; }
+
+/* phrase card */
+.num { font-family: 'Cormorant Garamond', serif; font-weight: 500; font-style: italic; font-size: 150px; line-height: 1; color: var(--gold); opacity: .9; }
+.phrase { font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 128px; line-height: 1; margin: 6px 0 22px; }
+.t-ivory .phrase { color: var(--bordeaux); }
+.pron { font-size: 30px; letter-spacing: .12em; color: var(--gold); font-weight: 500; margin-bottom: 40px; }
+.meaning { font-family: 'Cormorant Garamond', serif; font-size: 58px; font-style: italic; font-weight: 500; line-height: 1.15; margin-bottom: 40px; }
+.example { border-left: 2px solid var(--gold); padding-left: 32px; }
+.example .ex-it { font-family: 'Cormorant Garamond', serif; font-size: 44px; font-weight: 600; line-height: 1.25; }
+.example .ex-en { font-size: 28px; font-weight: 300; margin-top: 10px; opacity: .85; }
+
+/* list */
+ul.lux { list-style: none; }
+ul.lux li { font-size: 34px; font-weight: 300; line-height: 1.45; padding: 22px 0; border-bottom: 1px solid rgba(200,164,93,.35); display: flex; gap: 28px; }
+ul.lux li:last-child { border-bottom: 0; }
+ul.lux li b { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 600; font-size: 46px; color: var(--gold); min-width: 260px; line-height: 1.05; }
+.t-ivory ul.lux li b { color: var(--bordeaux); }
+
+/* cta */
+.cta-btn {
+  margin-top: 56px; display: inline-block; padding: 26px 54px; border: 1.5px solid var(--gold);
+  font-size: 22px; font-weight: 600; letter-spacing: .38em; text-transform: uppercase; color: var(--gold);
+}
+.swipe { position: absolute; right: 110px; bottom: 150px; font-size: 18px; letter-spacing: .4em; color: var(--gold); text-transform: uppercase; }
+
+/* fixes */
+body { font-variant-numeric: lining-nums; }
+h1, h2, .rule-no, .num, .phrase { font-variant-numeric: lining-nums; }
+.t-ivory .kicker, .t-ivory .top, .t-ivory .bottom, .t-ivory .pron, .t-ivory .num, .t-ivory .swipe { color: #9C7A36; }

@@ -1,0 +1,20 @@
+NOME (campo "Nome" — è ricercabile, contiene parole chiave):
+The Italian Code · Learn Italian
+
+BIO (max 150 caratteri):
+Italy's unwritten rules, decoded 🇮🇹
+Language · Culture · Food
+A new Italian Rule every week
+Le regole non scritte d'Italia ✨
+
+CATEGORIA: Istruzione (oppure Creator digitale)
+
+PALETTE
+Verde smeraldo  #0D2A1F
+Bordeaux        #6E1423
+Oro             #C8A45D
+Avorio          #F4EDE1
+
+FONT
+Titoli: Cormorant Garamond
+Testi:  Montserrat

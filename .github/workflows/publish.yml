@@ -1,0 +1,33 @@
+name: Publish to Instagram
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour; publishes posts whose time has come
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: publish
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish due post
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python engine/publish.py
+      - name: Record publication
+        run: |
+          if [ -n "$(git status --porcelain published.json)" ]; then
+            git config user.name "the-italian-code-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add published.json
+            git commit -m "Log published post"
+            git push
+          fi

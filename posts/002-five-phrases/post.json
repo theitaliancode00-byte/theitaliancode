@@ -1,0 +1,29 @@
+{
+  "series": "Speak Like an Italian",
+  "slides": [
+    {"type": "cover", "theme": "bordeaux", "kicker": "Speak like an Italian",
+     "title": "5 phrases <em>no textbook</em> will teach you",
+     "sub": "Your textbook lied to you. Politely."},
+    {"type": "phrase", "theme": "ivory", "num": "01", "phrase": "Magari!", "pron": "mah-GAH-ree",
+     "meaning": "“I wish!” — the official reply to every dream that will never come true.",
+     "ex_it": "«Hai finito di pagare il mutuo?» «Magari!»", "ex_en": "“Paid off your mortgage yet?” “I wish!”"},
+    {"type": "phrase", "theme": "green", "num": "02", "phrase": "Boh.", "pron": "BOH",
+     "meaning": "“No idea.” A complete sentence. Some say a philosophy.",
+     "ex_it": "«A che ora arriva il treno?» «Boh.»", "ex_en": "“When does the train arrive?” “Only God knows.”"},
+    {"type": "phrase", "theme": "ivory", "num": "03", "phrase": "Dai!", "pron": "DAH-ee",
+     "meaning": "Means “come on”, “hurry up”, “no way” and “please”. Good luck.",
+     "ex_it": "«Ho smesso di mangiare pasta.» «Dai!»", "ex_en": "“I quit eating pasta.” “No way. Liar.”"},
+    {"type": "phrase", "theme": "green", "num": "04", "phrase": "Meno male", "pron": "MEH-noh MAH-leh",
+     "meaning": "“Thank goodness.” Mostly used in food-related emergencies.",
+     "ex_it": "«La cucina è ancora aperta.» «Meno male!»", "ex_en": "“The kitchen's still open.” “Thank God!”"},
+    {"type": "phrase", "theme": "ivory", "num": "05", "phrase": "Che figata!", "pron": "keh fee-GAH-tah",
+     "meaning": "“How cool!” Very informal. Never say it to your boss. Or to a nonna.",
+     "ex_it": "«Il capo ci dà il venerdì libero!» «Che figata!»", "ex_en": "“The boss gave us Friday off!” “Amazing!”"},
+    {"type": "cta", "theme": "bordeaux",
+     "title": "Which one will you <em>use first</em>?",
+     "text": "Comment your favourite. Your Italian teacher doesn't need to know.",
+     "button": "Follow @the.italiancode"}
+  ],
+  "caption": "5 Italian phrases no textbook will teach you 🇮🇹\n\nMagari · Boh · Dai · Meno male · Che figata\n\nYour textbook taught you “Dov'è la biblioteca?”. Italians taught us these. Guess which ones you'll actually use.\n\nSave this before your next trip — and tell us your favourite 👇\n\n—\n🇮🇹 Italiani: quale manca? Sappiamo che ne avete almeno altre cento.",
+  "hashtags": ["#learnitalian", "#italianlanguage", "#italianphrases", "#studyitalian", "#italianculture", "#italy", "#italiano", "#languagelearning", "#theitaliancode"]
+}

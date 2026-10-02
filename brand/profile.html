@@ -1,0 +1,17 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Montserrat:wght@500&display=block" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1080px;overflow:hidden}
+body{background:radial-gradient(circle at 50% 42%,#1A4634 0%,#0D2A1F 55%,#071A12 100%);display:flex;align-items:center;justify-content:center;font-variant-numeric:lining-nums}
+.ring{width:820px;height:820px;border-radius:50%;border:3px solid #C8A45D;display:flex;align-items:center;justify-content:center;position:relative}
+.ring::after{content:'';position:absolute;inset:18px;border-radius:50%;border:1.5px solid rgba(200,164,93,.5)}
+.mono{font-family:'Cormorant Garamond',serif;font-size:430px;line-height:1;color:#F4EDE1;font-weight:500;letter-spacing:-.04em;display:flex;align-items:baseline;margin-top:-40px}
+.mono em{color:#C8A45D;font-style:italic;margin-left:-.06em}
+.dot{position:absolute;width:22px;height:22px;background:#C8A45D;transform:rotate(45deg)}
+.d1{top:-12px;left:calc(50% - 11px)}.d2{bottom:-12px;left:calc(50% - 11px)}
+.tri{position:absolute;bottom:200px;display:flex;width:150px;height:6px}
+.tri i{flex:1}.tri i:nth-child(1){background:#1F6B45}.tri i:nth-child(2){background:#F4EDE1}.tri i:nth-child(3){background:#B3253A}
+</style></head><body>
+<div class="ring"><i class="dot d1"></i><i class="dot d2"></i><div class="mono">I<em>C</em></div><div class="tri"><i></i><i></i><i></i></div></div>
+</body></html>

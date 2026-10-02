@@ -1,0 +1,39 @@
+{
+  "series": "Italian Rule",
+  "slides": [
+    {"type": "cover", "theme": "green", "kicker": "Italian Rule", "rule_no": "Nº 1",
+     "title": "Never order a <em>cappuccino</em> after 11&nbsp;a.m.",
+     "sub": "Breaking it is legal. Barely."},
+    {"type": "text", "theme": "ivory", "kicker": "The rule",
+     "heading": "Cappuccino is <em>breakfast</em>.",
+     "paragraphs": [
+       "For Italians, a cappuccino is a morning ritual — usually with a <span class='it'>cornetto</span>, standing at the bar counter.",
+       "After lunch or dinner? Order one and you'll get a polite smile… and a <strong>very</strong> Italian look."
+     ]},
+    {"type": "text", "theme": "green", "kicker": "Why",
+     "heading": "It's all about <em>digestion</em>.",
+     "paragraphs": [
+       "Many Italians believe that a big cup of hot milk after a meal feels heavy and slows digestion.",
+       "Science may debate it. Italian grandmothers do not."
+     ]},
+    {"type": "list", "theme": "ivory", "kicker": "Order like a local",
+     "heading": "What to ask for <em>instead</em>",
+     "items": [
+       ["Un caffè", "A shot of espresso. In Italy, “caffè” <strong>is</strong> espresso."],
+       ["Macchiato", "Espresso “stained” with a drop of milk foam."],
+       ["Corretto", "Espresso “corrected” with a splash of grappa."]
+     ]},
+    {"type": "text", "theme": "bordeaux", "kicker": "The secret",
+     "heading": "Don't say <em>“espresso”</em>.",
+     "paragraphs": [
+       "At the bar, just say: <span class='it'>“Un caffè, per favore.”</span>",
+       "Three words. Instant Italian citizenship. (Not legally.)"
+     ]},
+    {"type": "cta", "theme": "green",
+     "title": "Save it for your <em>next trip</em>.",
+     "text": "Follow for Italian Rule Nº 2 — and confess: how many cappuccinos after lunch?",
+     "button": "Follow @the.italiancode"}
+  ],
+  "caption": "Italian Rule Nº 1 ☕\nNever order a cappuccino after 11 a.m.\n\nIn Italy, cappuccino is a breakfast ritual. After a meal, Italians switch to a simple “caffè” — and yes, that means espresso.\n\nHave you ever broken this rule? This is a safe space. Mostly 👇\n\n—\n🇮🇹 Regola italiana n.1: mai un cappuccino dopo le 11. Voi la rispettate davvero?",
+  "hashtags": ["#italianculture", "#italy", "#learnitalian", "#italianlifestyle", "#italiancoffee", "#cappuccino", "#travelitaly", "#italia", "#theitaliancode"]
+}
