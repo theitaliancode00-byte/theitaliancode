@@ -1,0 +1,81 @@
+{
+  "series": "Speak Like an Italian",
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "ivory",
+      "kicker": "Speak like an Italian",
+      "title": "5 Italian words English <em>forgot</em> to invent",
+      "sub": "Your vocabulary is about to get an upgrade."
+    },
+    {
+      "type": "phrase",
+      "theme": "green",
+      "num": "01",
+      "phrase": "Abbiocco",
+      "pron": "ab-BYOK-koh",
+      "meaning": "The sleepiness that hits after a big meal. A medical condition. (Not officially.)",
+      "ex_it": "Dopo le lasagne della nonna, abbiocco totale.",
+      "ex_en": "After nonna's lasagna: total food coma."
+    },
+    {
+      "type": "phrase",
+      "theme": "ivory",
+      "num": "02",
+      "phrase": "Culaccino",
+      "pron": "koo-lah-CHEE-noh",
+      "meaning": "The wet ring a cold glass leaves on the table. Yes, we named it.",
+      "ex_it": "Usa il sottobicchiere, niente culaccini!",
+      "ex_en": "Use a coaster — no glass rings!"
+    },
+    {
+      "type": "phrase",
+      "theme": "green",
+      "num": "03",
+      "phrase": "Gattara",
+      "pron": "gat-TAH-rah",
+      "meaning": "The lady who feeds every stray cat in the neighbourhood. Every street has one.",
+      "ex_it": "La gattara del quartiere ha quattordici gatti.",
+      "ex_en": "The neighbourhood cat lady has fourteen cats."
+    },
+    {
+      "type": "phrase",
+      "theme": "ivory",
+      "num": "04",
+      "phrase": "Menefreghismo",
+      "pron": "meh-neh-freh-GHEEZ-moh",
+      "meaning": "The fine art of not caring. Some Italians hold a master's degree in it.",
+      "ex_it": "Che menefreghismo!",
+      "ex_en": "What a couldn't-care-less attitude!"
+    },
+    {
+      "type": "phrase",
+      "theme": "green",
+      "num": "05",
+      "phrase": "Apericena",
+      "pron": "ah-peh-ree-CHEH-nah",
+      "meaning": "An aperitivo so generous it becomes dinner. Pure strategy.",
+      "ex_it": "Stasera niente cena: apericena.",
+      "ex_en": "No dinner tonight — apericena."
+    },
+    {
+      "type": "cta",
+      "theme": "bordeaux",
+      "title": "Which one do you <em>need</em> in your life?",
+      "text": "Comment yours — and follow for more Italian you won't find in a dictionary.",
+      "button": "Follow @the.italiancode"
+    }
+  ],
+  "caption": "5 Italian words English forgot to invent 🇮🇹\n\nAbbiocco · Culaccino · Gattara · Menefreghismo · Apericena\n\nOne language has a word for the ring your glass leaves on the table. The other doesn't. We're not saying which one is superior. (We are.)\n\nWhich one will you steal? 👇\n\n—\n🇮🇹 Italiani: quale parola intraducibile aggiungereste?",
+  "hashtags": [
+    "#learnitalian",
+    "#italianlanguage",
+    "#italianwords",
+    "#untranslatable",
+    "#studyitalian",
+    "#italiano",
+    "#languagelearning",
+    "#italy",
+    "#theitaliancode"
+  ]
+}

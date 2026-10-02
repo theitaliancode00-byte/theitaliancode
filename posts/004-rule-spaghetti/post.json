@@ -1,0 +1,82 @@
+{
+  "series": "Italian Rule",
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "bordeaux",
+      "kicker": "Italian Rule",
+      "title": "Never <em>cut</em> your spaghetti.",
+      "sub": "We warned you. Brace yourself.",
+      "rule_no": "Nº 3"
+    },
+    {
+      "type": "text",
+      "theme": "ivory",
+      "kicker": "The rule",
+      "heading": "Spaghetti are <em>long</em> on purpose.",
+      "paragraphs": [
+        "Cutting them with a knife turns a plate of pasta into a crime scene. Twirl them with your fork — that's the whole point.",
+        "Cut them in front of an Italian and expect a silence longer than the spaghetti."
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "green",
+      "kicker": "And the spoon?",
+      "heading": "Leave the spoon <em>alone</em>.",
+      "paragraphs": [
+        "Twirling against a spoon is how kids learn. Adults use just the fork, against the side of the plate.",
+        "Yes, some restaurants abroad give you one. No, nonna does not approve."
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "ivory",
+      "kicker": "Twirl like a local",
+      "heading": "The <em>technique</em>",
+      "items": [
+        [
+          "Few strands",
+          "Pick up just a few — not half the plate."
+        ],
+        [
+          "Plate edge",
+          "Twirl against the side of the plate, not in mid-air."
+        ],
+        [
+          "One bite",
+          "If it doesn't fit in one bite, you took too much. Start again."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "bordeaux",
+      "kicker": "The exception",
+      "heading": "Toddlers are <em>forgiven</em>.",
+      "paragraphs": [
+        "Small children get their spaghetti cut. Everyone else gets judged.",
+        "Lovingly. But judged."
+      ]
+    },
+    {
+      "type": "cta",
+      "theme": "green",
+      "title": "Save it before your <em>next pasta</em>.",
+      "text": "Follow for Italian Rule Nº 4 — the one about “pepperoni”. You've been lied to.",
+      "button": "Follow @the.italiancode"
+    }
+  ],
+  "caption": "Italian Rule Nº 3 🍝\nNever cut your spaghetti.\n\nNo knife. No spoon. Just a fork, a few strands and the side of the plate. It takes practice — Italians have had a few centuries of it.\n\nBe honest: knife, spoon, or fork only? 👇\n\n—\n🇮🇹 Regola italiana n.3: gli spaghetti non si tagliano. Mai. Conoscete qualcuno che lo fa? Taggatelo.",
+  "hashtags": [
+    "#italianfood",
+    "#spaghetti",
+    "#italianculture",
+    "#pasta",
+    "#italy",
+    "#learnitalian",
+    "#italianlifestyle",
+    "#italia",
+    "#theitaliancode"
+  ]
+}

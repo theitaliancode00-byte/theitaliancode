@@ -1,0 +1,82 @@
+{
+  "series": "Italian Rule",
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "green",
+      "kicker": "Italian Rule",
+      "title": "Never order a <em>“pepperoni”</em> pizza.",
+      "sub": "Unless you really, really love bell peppers.",
+      "rule_no": "Nº 4"
+    },
+    {
+      "type": "text",
+      "theme": "ivory",
+      "kicker": "The trap",
+      "heading": "<em>Peperoni</em> means peppers.",
+      "paragraphs": [
+        "In Italian, <span class='it'>peperoni</span> are bell peppers. Red, yellow, green. Zero salami.",
+        "Order a “pepperoni pizza” and you'll get exactly what you asked for. Just not what you wanted."
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "bordeaux",
+      "kicker": "What you actually want",
+      "heading": "Ask for a <em>Diavola</em>.",
+      "paragraphs": [
+        "The “devil's pizza”: tomato, mozzarella and spicy salami — <span class='it'>salame piccante</span>.",
+        "It's the closest thing to American pepperoni. And it's on almost every menu."
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "ivory",
+      "kicker": "Pizza vocabulary",
+      "heading": "Survive the <em>menu</em>",
+      "items": [
+        [
+          "Peperoni",
+          "Bell peppers. Healthy. Disappointing."
+        ],
+        [
+          "Peperoncino",
+          "Chili pepper. Proceed with caution."
+        ],
+        [
+          "Salame piccante",
+          "Spicy salami. The one you were looking for."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "green",
+      "kicker": "Bonus rule",
+      "heading": "One pizza, <em>one person</em>.",
+      "paragraphs": [
+        "In an Italian pizzeria, everyone orders a whole pizza. Just for themselves.",
+        "Sharing is optional. Finishing it is expected."
+      ]
+    },
+    {
+      "type": "cta",
+      "theme": "bordeaux",
+      "title": "Tag the friend who <em>orders pepperoni</em>.",
+      "text": "Follow for Italian Rule Nº 5 — the pineapple question. We're ready. Are you?",
+      "button": "Follow @the.italiancode"
+    }
+  ],
+  "caption": "Italian Rule Nº 4 🍕\nNever order a “pepperoni” pizza in Italy.\n\nPeperoni = bell peppers. If you want spicy salami, ask for a Diavola. Your taste buds will thank you. Your waiter will respect you.\n\nHas this ever happened to you? 👇\n\n—\n🇮🇹 Regola italiana n.4: i “pepperoni” americani da noi si chiamano salame piccante. Quanti turisti avete visto cadere nella trappola?",
+  "hashtags": [
+    "#pizza",
+    "#italianfood",
+    "#pepperoni",
+    "#italianculture",
+    "#italy",
+    "#learnitalian",
+    "#pizzalover",
+    "#italia",
+    "#theitaliancode"
+  ]
+}

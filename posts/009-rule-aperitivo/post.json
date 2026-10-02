@@ -1,0 +1,82 @@
+{
+  "series": "Italian Rule",
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "green",
+      "kicker": "Italian Rule",
+      "title": "Aperitivo is <em>not</em> happy hour.",
+      "sub": "Same time of day. Completely different religion.",
+      "rule_no": "Nº 6"
+    },
+    {
+      "type": "text",
+      "theme": "ivory",
+      "kicker": "The rule",
+      "heading": "It's about <em>appetite</em>.",
+      "paragraphs": [
+        "The word comes from the Latin <span class='it'>aperire</span> — “to open”. It's meant to open your appetite before dinner.",
+        "Not to end your evening at 9 p.m."
+      ]
+    },
+    {
+      "type": "list",
+      "theme": "bordeaux",
+      "kicker": "The classics",
+      "heading": "What to <em>order</em>",
+      "items": [
+        [
+          "Spritz",
+          "Prosecco, Aperol or Campari, a splash of soda. Iconic."
+        ],
+        [
+          "Negroni",
+          "Gin, vermouth, Campari. Born in Florence. Not for beginners."
+        ],
+        [
+          "Americano",
+          "Campari, vermouth, soda. Despite the name, very Italian."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "green",
+      "kicker": "The snacks",
+      "heading": "Small bites, <em>big</em> tradition.",
+      "paragraphs": [
+        "Olives, crisps, small sandwiches, cured meats — often included with your drink.",
+        "Eat a little. Not everything. This isn't dinner. Unless it's an <span class='it'>apericena</span>."
+      ]
+    },
+    {
+      "type": "text",
+      "theme": "ivory",
+      "kicker": "Timing",
+      "heading": "Between <em>6 and 9 p.m.</em>",
+      "paragraphs": [
+        "Aperitivo usually happens between 6 and 9 p.m. Dinner comes after. Sometimes much after.",
+        "The formula: one or two drinks, a lot of conversation, zero hurry."
+      ]
+    },
+    {
+      "type": "cta",
+      "theme": "bordeaux",
+      "title": "Tag your <em>aperitivo</em> partner.",
+      "text": "Follow for Italian Rule Nº 7 — and tell us: Spritz or Negroni?",
+      "button": "Follow @the.italiancode"
+    }
+  ],
+  "caption": "Italian Rule Nº 6 🍹\nAperitivo is not happy hour.\n\nIt's not about cheap drinks. It's about opening your appetite, slowly, with good company and something to nibble. Getting drunk is not on the menu.\n\nSpritz or Negroni? 👇\n\n—\n🇮🇹 Regola italiana n.6: l'aperitivo è un rito, non un happy hour. Il vostro drink preferito?",
+  "hashtags": [
+    "#aperitivo",
+    "#spritz",
+    "#negroni",
+    "#italianlifestyle",
+    "#italianculture",
+    "#italy",
+    "#learnitalian",
+    "#italia",
+    "#theitaliancode"
+  ]
+}

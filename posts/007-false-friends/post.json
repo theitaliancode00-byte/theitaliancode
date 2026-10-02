@@ -1,0 +1,81 @@
+{
+  "series": "Speak Like an Italian",
+  "slides": [
+    {
+      "type": "cover",
+      "theme": "bordeaux",
+      "kicker": "Speak like an Italian",
+      "title": "5 Italian words that <em>don't mean</em> what you think",
+      "sub": "Learn these before they embarrass you."
+    },
+    {
+      "type": "phrase",
+      "theme": "ivory",
+      "num": "01",
+      "phrase": "Camera",
+      "pron": "KAH-meh-rah",
+      "meaning": "Means “room”, not camera. Your hotel did not lose your Nikon.",
+      "ex_it": "La camera è al secondo piano.",
+      "ex_en": "The room is on the second floor."
+    },
+    {
+      "type": "phrase",
+      "theme": "green",
+      "num": "02",
+      "phrase": "Parenti",
+      "pron": "pah-REN-tee",
+      "meaning": "“Relatives”, not parents — those are genitori. Expect about 200 at Christmas.",
+      "ex_it": "A Natale vengono tutti i parenti.",
+      "ex_en": "At Christmas, all the relatives come."
+    },
+    {
+      "type": "phrase",
+      "theme": "ivory",
+      "num": "03",
+      "phrase": "Morbido",
+      "pron": "MOR-bee-doh",
+      "meaning": "“Soft”, not morbid. A compliment for pillows and fresh bread.",
+      "ex_it": "Che pane morbido!",
+      "ex_en": "What soft bread!"
+    },
+    {
+      "type": "phrase",
+      "theme": "green",
+      "num": "04",
+      "phrase": "Libreria",
+      "pron": "lee-breh-REE-ah",
+      "meaning": "A bookshop — or a bookcase. The library is the biblioteca.",
+      "ex_it": "Ho comprato il libro in libreria.",
+      "ex_en": "I bought the book at the bookshop."
+    },
+    {
+      "type": "phrase",
+      "theme": "ivory",
+      "num": "05",
+      "phrase": "Preservativo",
+      "pron": "preh-zer-vah-TEE-voh",
+      "meaning": "A condom. NOT a preservative. Never ask if the jam contains any.",
+      "ex_it": "«Contiene conservanti?»",
+      "ex_en": "“Does it contain preservatives?” — the safe version."
+    },
+    {
+      "type": "cta",
+      "theme": "green",
+      "title": "Which one <em>almost got you</em>?",
+      "text": "Confess in the comments. Follow for more Italian survival tips.",
+      "button": "Follow @the.italiancode"
+    }
+  ],
+  "caption": "5 Italian false friends 😅\n\nCamera · Parenti · Morbido · Libreria · Preservativo\n\nThey look like English. They are not English. Number 5 has ruined more than one breakfast in an Italian hotel.\n\nWhich one almost got you? 👇\n\n—\n🇮🇹 Italiani: qual è il “falso amico” più divertente che avete sentito da uno straniero?",
+  "hashtags": [
+    "#learnitalian",
+    "#falsefriends",
+    "#italianlanguage",
+    "#studyitalian",
+    "#italiano",
+    "#languagelearning",
+    "#italianculture",
+    "#italy",
+    "#theitaliancode"
+  ]
+}
