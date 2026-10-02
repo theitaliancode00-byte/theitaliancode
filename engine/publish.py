@@ -76,8 +76,10 @@ def main():
     dry = "--dry-run" in sys.argv
     schedule = json.loads(SCHEDULE.read_text(encoding="utf-8"))
     log = json.loads(LOG.read_text(encoding="utf-8")) if LOG.exists() else {}
+    if os.environ.get("IG_ACCESS_TOKEN"):
+        print(f"connected as @{call('GET', 'me', fields='username')['username']}")
     now = datetime.now(timezone.utc)
-    due = [e for e in schedule if e["post"] not in log and datetime.fromisoformat(e["at"]) <= now]
+    due =[e for e in schedule if e["post"] not in log and datetime.fromisoformat(e["at"]) <= now]
     if not due:
         print("nothing due")
         return
